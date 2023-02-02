@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.csc325_demo01;
 
 /**
@@ -10,5 +5,22 @@ package com.mycompany.csc325_demo01;
  * @author Luuth
  */
 public class NewClass {
+    
+    private int age;
+
+    public NewClass() {
+    }
+
+    public NewClass(int age) {
+        this.age = age;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
     
 }
