@@ -9,7 +9,5 @@ public class CSC325_Demo01 {
         System.out.println("Thuan Luu \n\n\n");
         
         System.out.println("Thuan Luu \n\n\n");
-        System.out.println("Thuan Luu \n\n\n");
-        System.out.println("Thuan Luu \n\n\n");
     }
 }
